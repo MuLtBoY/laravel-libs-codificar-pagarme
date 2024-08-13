@@ -1,2 +1,4 @@
-vendor
-tests/unit/_reports
+vendor/*
+.DS_Store
+*.swp
+*.swo
